@@ -1,0 +1,3 @@
+{
+module EAB.Sintax where
+}
